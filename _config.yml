@@ -1,17 +1,17 @@
 # Setup
-title:            'State of Connecticut'
-tagline:          'Data Sharing Playbook'
-description:      'Connecticut Data Playbook'
+title:            'State Chief Data Officers Network'
+tagline:          'Data Policy Options'
+description:      'State Data Policy Playbook'
 
 author:
-  name:           'State of Connecticut'
+  name:           'State Chief Data Officers Network'
   url:            https://github.com/CTOpenData/data-sharing-playbook
 
 # Custom vars
 version:          1.0.0
 
 github:
-  repo:           https://github.com/CTOpenData/data-sharing-playbook
+  repo:           
 
 # Google Analytics
-google_analytics: UA-56144207-2
+google_analytics: 
