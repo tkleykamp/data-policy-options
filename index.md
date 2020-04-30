@@ -4,39 +4,25 @@ title: Introduction
 home: true
 weight: 0
 ---
-## About the data sharing playbook 
+ 
+## State Data Policy Option Guidelines
+ 
+Every day state governments make decisions that affect the lives of their residents. As state governments become increasingly digital, the amount of digital data in states’ possession has grown exponentially. States are seeking to leverage this data to make more informed decisions and to deliver services faster, cheaper, and more effectively.
+ 
+As states mature in their collection, maintenance, and use of data, their approaches can be fragmented, inefficient, and unpredictable. In 2018, the Pew Charitable Trusts examined how states use data to inform decisions. The report identified a series of strategic action states can implement to advance how they use data.
+ 
+Missing from these actions is the designation of a leader to coordinate and facilitate the use of data statewide. The organization Results for America published a State Standard of Excellence that identifies “Data Leadership” as a critical component for states in advancing their use of data and evidence. According to Results for America, “A designated chief data officer can create a coherent set of policies, structures, and guidance for how state agencies should routinely use data to improve programs.”
+ 
+Based on these reports and lessons learned from the nation’s state Chief Data Officers, the State Chief Data Officers Network recommends the following principles for states to utilize in advancing their use of data:
+ 
+## LEAD - Designate an executive level data leader as the Chief Data Officer;
+## PLAN - Create a strategy, governance structure, and inventory of data;
+## BUILD - Increase the capacity of stakeholders to effectively use data
+## SHARE - Establish clear and predictable processes for data sharing;
+## ANALYZE - Provide mechanisms and platforms to enable data integration and analysis;
+## SUSTAIN - Ensure ongoing support exists for data efforts.
+ 
+Key to the long term sustainability of state data efforts is establishing laws that ensure efforts will survive beyond a specific administration. While many states have used executive orders and memoranda of understanding to implement various data initiatives, these efforts can be rescinded at any time. Further, ensuring that a commitment exists from state legislatures demonstrates a broader commitment to sustainability from top-level policy makers.
+ 
+The following are a series of examples of legislative language that states can draw upon to aid in implementing the six principles. These examples are based on existing laws from various states and highlight critical elements of the legislation.
 
-The Office of Policy and Management (OPM) noted in its [Legal Issues in Interagency Data Sharing Report](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf) that leveraging data from multiple state agencies can improve program administration, policy analysis, research, and performance management. 
-
-In this playbook, we lay out strategies that will help Connecticut state agencies share data safely, securely, and ethically. The strategies are based on best practices from other states, specific examples and methods from Connecticut state agencies, and the recommendations found in OPM’s report. The strategies are focused on interagency data sharing, although many practices will also benefit sharing data with the public.
-
-Note that this playbook is a work in progress and does not represent official IT or technology policy for Connecticut. We will be adding more content and updating the playbook over the coming months.
-
-## How to use this playbook
-
-We recommend that agencies who own data read the following sections in order to build a data sharing framework that respects the laws and regulations that apply to their data:
-
- * [Enabling Data Sharing](/data-sharing-playbook/enabling-data-sharing/)
- * [Safeguarding Data](/data-sharing-playbook/safeguarding-data/)
- * [Responding to Data Requests](/data-sharing-playbook/responding-to-data-requests/)
-
-Agencies that seek to request data will benefit from the following sections to initiate strong data sharing partnerships:
-
- * [Preparing a Successful Data Request](/data-sharing-playbook/preparing-a-successful-data-request/)
- * [Identify the type of legal data sharing agreement you’ll need](/data-sharing-playbook/responding-to-data-requests/#identify-the-type-of-legal-data-sharing-agreement-you-will-need)
-
-Finally, we recommend that both parties read the guidance on [transferring data](/data-sharing-playbook/transferring-data/) before transferring data to preserve the confidentiality and integrity of the data being shared. 
-
-## Methodology
-
-The guidance in this playbook is the culmination of a 4-month research initiative conducted by OPM, OEC, and Skylight Digital, a digital consultancy for government. 
-
-Our research involved:
-
-* User interviews with 13 data sharing practitioners across Connecticut state agencies
-* Research into best practices from data sharing experts
-* Research into case studies from other states
-* A detailed technology tool review to document the secure channels for data transfer available to Connecticut state agencies
-* Findings from OPM’s [Legal Issues in Interagency Data Sharing Report](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf)
-
- ![](assets/images/overview-of-data-sharing-process.png) 
