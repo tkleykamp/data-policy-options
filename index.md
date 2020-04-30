@@ -15,12 +15,12 @@ Missing from these actions is the designation of a leader to coordinate and faci
  
 Based on these reports and lessons learned from the nation’s state Chief Data Officers, the State Chief Data Officers Network recommends the following principles for states to utilize in advancing their use of data:
  
-## LEAD - Designate an executive level data leader as the Chief Data Officer;
-## PLAN - Create a strategy, governance structure, and inventory of data;
-## BUILD - Increase the capacity of stakeholders to effectively use data
-## SHARE - Establish clear and predictable processes for data sharing;
-## ANALYZE - Provide mechanisms and platforms to enable data integration and analysis;
-## SUSTAIN - Ensure ongoing support exists for data efforts.
+## LEAD ## - Designate an executive level data leader as the Chief Data Officer;
+## PLAN ##  - Create a strategy, governance structure, and inventory of data;
+## BUILD ## - Increase the capacity of stakeholders to effectively use data
+## SHARE ## - Establish clear and predictable processes for data sharing;
+## ANALYZE ## - Provide mechanisms and platforms to enable data integration and analysis;
+## SUSTAIN ## - Ensure ongoing support exists for data efforts.
  
 Key to the long term sustainability of state data efforts is establishing laws that ensure efforts will survive beyond a specific administration. While many states have used executive orders and memoranda of understanding to implement various data initiatives, these efforts can be rescinded at any time. Further, ensuring that a commitment exists from state legislatures demonstrates a broader commitment to sustainability from top-level policy makers.
  
