@@ -1,71 +1,36 @@
 ---
 layout: page
-title: Safeguarding Data
-permalink: /safeguarding-data/
+title: Plan
+permalink: /plan/
 nav: true
 weight: 2
 ---
 
-## Develop privacy and security compliance policies, standards, and controls.
+## Plan - Build a strategy, governance structure, and inventory of data.
 
-**Policies** are high-level statements about how data should be handled, similar to a vision statement. **Standards** outline the rules that govern putting policies into action, and **controls** provide specific instructions about how to implement a standard.
+**Establish a plan**
+ 
+Example 1: Connecticut - https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p
+ 
+>Not later than December 31, 2018, and every two years thereafter, the Chief Data Officer, in consultation with the agency data officers and executive branch agency heads, shall create a state data plan. The state data plan shall (1) establish management and data analysis standards across all executive branch agencies, (2) include specific, achievable goals within the two years following adoption of such plan, as well as longer term goals, (3) make recommendations to enhance standardization and integration of data systems and data management practices across all executive branch agencies, (4) provide a timeline for a review of any state or federal legal concerns or other obstacles to the internal sharing of data among agencies, including security and privacy concerns, and (5) set goals for improving the online repository established pursuant to subsection (i) of this section. Each state data plan shall provide for a procedure for each agency head to report to the Chief Data Officer regarding the agency's progress toward achieving the plan's goals. Such plan may make recommendations concerning data management for the legislative or judicial branch agencies, but such recommendations shall not be binding on such agencies.
+ 
+>(f) Information technology-related actions and initiatives of all executive branch agencies, including, but not limited to, the acquisition of hardware and software and the development of software, shall be consistent with the final state data plan.
+ 
+While Oregon’s CDO is required to establish an “enterprise data and information strategy,” Connecticut is the only state required by law to have a formal state data plan. The plan was developed in a series of iterative phases, with each providing an opportunity for input from the public and government agencies. The plan consists of a series of strategic principles and practices to guide agencies in the use and management of data, along with public policy issues called “Focal Points” to establish priority areas for state agencies to focus data efforts. 
+ 
+**Establishing a data governance structure -**
+No state currently has a legislated data governance structure however the Commonwealth of Virginia has established one by executive order.
+ 
+**Inventory Data -** 
 
-In order to facilitate secure and compliant data sharing:
-* **Data requesters** must understand the privacy and security compliance standards of the data they are requesting 
-* **Data owners** must ensure that they clearly define the privacy and security compliance standards that govern the data they own
-
-The points below highlight how to define and understand privacy and security compliance.
-
-## Establish a privacy policy.
-
-A privacy policy is an externally-facing document for the people from whom you might collect data. It explains how your agency uses personal information that may be collected when the public interacts with the agency. The privacy policy should include the types of information gathered, how the information is used, to whom the information is disclosed, and how the information is safeguarded. 
-
-Here are some of the questions to ask when you document a privacy policy: 
-* Why do we collect personal information?
-* What information do we collect? (Review the data dictionary.)
-* When and how do we disclose/share information?
-* How do we protect personal information, including the administrative, technical, and physical strategies?
-* How do we protect the confidentiality, integrity, and availability of confidential information that is created, received, maintained, or transmitted?
-
-## Document critical data elements.
-
-Confidential Information (CI) is any non-public information pertaining to the agency’s business. Personally identifiable information (PII) is any data that can be used to identify an individual. Examples of PII include a user’s name, address, phone number, and social security number. 
-
-Data owners should also document subsets of PII, such as:
-* Payment Card Industry (PCI) data — credit card information
-* Protected Health Information (PHI) — information about an individual’s health
-* Education records — data maintained by a school about students that includes information like test scores, special education records, courses taken, and attendance
-
-## Understand the laws that govern critical data elements.
-
-State agencies need to understand the laws that govern each dataset based on its CI and PII. The standards and laws that govern data are critical in order to know:
-* How data should be stored
-* How data can be used 
-* What data can be shared (e.g., individual rows or aggregate totals)
-* How data are transferred
-* How data are disposed of
-
-For more information about applicable federal and state laws, refer to the [Legal Issues in Interagency Data Sharing report](https://portal.ct.gov/-/media/CT-Data/PA-19153-Legal-Issues-in-Interagency-Data-Sharing-Report-11520.pdf) and accompanying appendices.  
-
-### Recommended reading
-* [The Health Insurance Information Portability and Accountability Act of 1966 (HIPAA): Implications for Research with Administrative Records](https://www.datanetwork.org/wp-content/uploads/CDN-HIPAA-Overview_Final.pdf), Children’s Data Network at the University of Southern California, 2016
-* [Family Educational Rights Privacy Act of 1974 (FERPA): Implications for Research with Administrative Records](https://www.datanetwork.org/wp-content/uploads/CDN-FERPA-Overview_Final.pdf), Children’s Data Network at the University of Southern California, 2016
-
-## Define acceptable use standards.
-
-Define acceptable use standards based on the laws and regulations that govern the use of your agency’s data. These standards will help define the specific requirements in data sharing agreements for keeping data secure. For example, for sensitive data, the data owner may require that the requesting party dispose of the data after a specific amount of time. 
-
-## Develop, implement, and maintain a comprehensive data-security program.
-
-Your agency will need legal assistance creating a comprehensive data-security program that adequately protects CI. The program will need to be consistent with and comply with all applicable federal and state laws and written policies related to protecting CI.
-
-The data-security program should cover considerations like: 
-* A security policy for employees related to the storage, access, and transportation of data containing confidential information
-* Reasonable restrictions on access to records containing confidential information, including access to any locked storage where such records are kept
-* A process for reviewing policies and security measures at least annually
-* The creation of secure access controls to confidential information, including but not limited to passwords
-* Encryption of confidential information that is stored on laptops or portable devices or that is being transmitted electronically
-
-## Enforce compliance controls.
-
-A control is a safeguard to avoid, detect, or minimize security risks that might compromise the confidentiality, integrity, and accessibility of data. For example, a data owner might require a quarterly review of all users with access to a database or that people working with the data undergo compliance training. 
+Example 2: Florida
+https://www.flsenate.gov/Session/Bill/2017/2500/BillText/er/PDF
+>The Chief Data Officer, in consultation with state agencies shall develop an enterprise data inventory that describes the data created or collected by a state agency, including geospatial data used in a state agency’s geographic information system, and recommend options and associated costs for developing and maintaining an open data catalog that is machine-readable. For purposes of developing the inventory, the Chief Data Officer shall establish a process and a reporting format for state agencies to provide an inventory that describes all current datasets aggregated or stored by the state agency. The inventory shall include, but is not limited to: 1) the title and description of the information contained within the dataset; 2) a description of how the data is maintained, including standards or terminologies used to structure the data; 3) any existing or planned application programming interface used to publish the data; 4) a description of the data contained in any such existing interface; and 5) a description of the data expected to be contained in any currently planned interface.
+ 
+Example 2: Connecticut
+https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p
+>On or before December 31, 2018, and not less than annually thereafter, each executive branch agency shall conduct an inventory of any high value data that is collected or possessed by the agency. Such inventory shall be in a form prescribed by the Chief Data Officer. In conducting such inventory, data shall be presumed to be public data unless otherwise classified by federal or state law or regulation. On or before December 31, 2018, and not less than annually thereafter, each executive branch agency shall submit such inventory to the Chief Data Officer and the Connecticut Data Analysis Technology Advisory Board.
+ 
+Both examples provide a relatively straightforward approach to establishing data inventories. Florida’s law includes some details regarding the minimum amount of information should be collected as part of the inventory while Connecticut’s provide fewer guidelines. Additionally, Connecticut’s law requires that the inventory be updated on an annual basis while Florida’s contains no such requirement. Connecticut’s law is also limited to inventorying “high value data” which means certain datasets such as spreadsheets maintained by an individual for non critical purposes may not be captured.
+ 
+Both Florida and Connecticut used a similar template to collect their data inventories and both were able to complete the process within a few months. The inventories collect high level information about various state data assets that range from large systems like Medicaid eligibility and claims, to geospatial datasets. Connecticut’s inventory is publicly available and has been updated for 2019
