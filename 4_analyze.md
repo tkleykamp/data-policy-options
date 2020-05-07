@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Preparing a Successful Data Request
+title: Analyze
 permalink: /analyze/
 nav: true
 weight: 4
