@@ -1,11 +1,11 @@
 # Setup
 title:            'State Chief Data Officers Network'
 tagline:          'Data Policy Options'
-description:      'State Data Policy Playbook'
+description:      'State Data Policy Options'
 
 author:
   name:           'State Chief Data Officers Network'
-  url:            https://github.com/CTOpenData/data-sharing-playbook
+  url:            https://github.com/tkleykamp/data-policy-options
 
 # Custom vars
 version:          1.0.0
