@@ -15,7 +15,7 @@ Many executive positions in state government are established by law. These posit
  
 **Establishing a Chief Data Officer and its authority/responsibility -**
  
-Example 1: Connecticut:  [https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p]
+Example 1: (Connecticut:)[https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p]
 
 Connecticut’s law broadly establishes the Chief Data Officer role, authority and responsibility. It is intended to be relatively simple such that it could be included in a budget authorization bill, while enabling a CDO to advance the core functions of the position.
 
